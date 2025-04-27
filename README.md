@@ -18,10 +18,6 @@ SensAI leverages powerful APIs:
 - **Groq API** for blazing-fast, context-aware AI chat and reasoning
 - **ElevenLabs API** for ultra-realistic AI voice output (TTS)
 
-**Folder Structure (Development):**
-
-<br>
-
 ## ✨ Features
 
 | No. | Feature                          | Description |
