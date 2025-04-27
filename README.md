@@ -12,6 +12,75 @@
 
 <br>
 
+# 🚀 Applications SensAI Can Launch
+
+## 🖥️ Pre-Installed System Applications (Windows)
+
+| No. | Application Name        |
+|:---:|:-------------------------|
+| 1 | Notepad |
+| 2 | Calculator |
+| 3 | Paint |
+| 4 | Microsoft Edge |
+| 5 | File Explorer |
+| 6 | Command Prompt |
+| 7 | Control Panel |
+| 8 | Settings |
+| 9 | Task Manager |
+| 10 | Snipping Tool |
+| 11 | Internet Explorer |
+| 12 | Windows Media Player |
+| 13 | Default Mail Client |
+| 14 | Disk Management |
+| 15 | Device Manager |
+| 16 | Event Viewer |
+| 17 | Registry Editor |
+| 18 | Performance Monitor |
+| 19 | System Configuration |
+| 20 | Resource Monitor |
+| 21 | Task Scheduler |
+| 22 | System Information |
+| 23 | Camera |
+| 24 | Microsoft Store |
+| 25 | Photos |
+
+---
+
+## 🛠️ External/Manually Installed Applications
+
+| No. | Application Name        |
+|:---:|:-------------------------|
+| 1 | VLC Media Player |
+| 2 | Word |
+| 3 | Excel |
+| 4 | PowerPoint |
+| 5 | Outlook |
+| 6 | Google Chrome |
+| 7 | Spotify |
+| 8 | Microsoft Teams |
+| 9 | Skype |
+| 10 | Zoom |
+| 11 | Visual Studio Code |
+| 12 | WhatsApp |
+| 13 | Canva |
+| 14 | ChatGPT |
+| 15 | Google Sheets |
+| 16 | Google Docs |
+| 17 | Google Slides |
+| 18 | Gmail |
+| 19 | Google Meet |
+| 20 | Google Drive |
+| 21 | LinkedIn |
+| 22 | Amazon |
+| 23 | GitHub |
+
+---
+
+✅ **Note:**  
+- System apps work out-of-the-box.  
+- External apps must be **pre-installed** for SensAI to launch them.
+
+
 ## 🧠 Logic Behind SensAI
 
 SensAI leverages powerful APIs:
