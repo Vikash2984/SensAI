@@ -105,6 +105,22 @@ Here’s the list of supported platforms:
 - Simply type your query and SensAI will **automatically open the browser** to the right search results page!
 - For WhatsApp, you need to provide the **phone number** in the command.
 
+# 🗂️ SensAI Navigation Feature
+
+SensAI can **navigate to files and folders** effortlessly and open them directly in specific applications.  
+Supported navigation options:
+
+| No. | Application | Description |
+|:---:|:------------|:------------|
+| 1 | Visual Studio Code (VS Code) | Open a specific file or folder directly inside VS Code for editing or viewing. |
+| 2 | Windows File Explorer | Open a specific folder or directory inside the Windows File Explorer for browsing. |
+
+---
+
+✅ **Note:**  
+- Just provide the **file or folder path** when prompted, and SensAI will automatically open it in your chosen application.
+- Helps developers and users quickly jump into their projects or folders without manual searching!
+
 
 ## 🧠 Logic Behind SensAI
 
