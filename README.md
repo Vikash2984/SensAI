@@ -1,20 +1,55 @@
 # 🚀 SensAI - The AI-Powered CLI Assistant
 
 **SensAI** is a cutting-edge **Command Line AI ChatBot** that can:
-- Launch apps
-- Search the web
-- Perform in-app file navigation and search
-- Converse intelligently via both **Text** and **Voice**
+- Launch applications
+- Perform web searches
+- Navigate and search files/folders in-app
+- Converse intelligently via **Text** and **Voice**
 - Suggest random content and ideas
 - Remember previous actions (basic memory)
-- Act as a web alternative for quick launches
-- All packed inside a lightweight CLI tool!
+- Act as a web alternative launcher
+- All packed into a lightweight, fast CLI tool!
 
-<br>
+---
 
-# 🚀 Applications SensAI Can Launch
+# ✨ Features
 
-## 🖥️ Pre-Installed System Applications (Windows)
+| No. | Feature                          | Description |
+|:---:|:----------------------------------|:------------|
+| 1 | 🎯 **Launch Applications**          | Open apps like VS Code, Chrome, Explorer with simple commands |
+| 2 | 🌐 **Web Search**                   | Perform quick Google searches directly from CLI |
+| 3 | 📁 **File & Folder Navigation**     | Browse through directories with AI guidance |
+| 4 | 🔍 **In-App Website Searching**     | Instantly search Spotify, Amazon, GitHub, and more |
+| 5 | 💬 **Voice & Text Interaction**     | Speak or type to SensAI for hands-free operation |
+| 6 | 🧠 **Basic Memory**                  | Remembers small conversation history and context |
+| 7 | 🎲 **Random Content Suggestions**   | Get motivational quotes, web suggestions, and ideas |
+| 8 | 🚀 **Web Alternative Launch**        | Open specific websites instantly without manual search |
+
+---
+
+# 🧠 Logic Behind SensAI
+
+SensAI leverages powerful APIs to deliver high performance:
+- **Groq API** for fast, context-aware AI chat and intelligent reasoning
+- **ElevenLabs API** for ultra-realistic AI voice output (TTS)
+
+---
+
+# 🗂️ Folder Structure
+
+```
+/sensai_project/
+│
+├── sensai.exe          # The main executable
+├── .env                # API keys (Groq, ElevenLabs)
+├── /temp/              # Temporary data files (memory logs, speech outputs)
+```
+
+---
+
+# 🖥️ Applications SensAI Can Launch
+
+## ✅ Pre-Installed System Applications (Windows)
 
 | No. | Application Name        |
 |:---:|:-------------------------|
@@ -74,19 +109,19 @@
 | 22 | Amazon |
 | 23 | GitHub |
 
----
-
 ✅ **Note:**  
-- System apps work out-of-the-box.  
-- External apps must be **pre-installed** for SensAI to launch them.
+- System applications work **out-of-the-box**.  
+- External applications must be **pre-installed** for SensAI to launch them.
+
+---
 
 # 🔎 SensAI In-App Search Feature
 
-SensAI can perform **direct searches inside popular websites and applications** without needing to open a browser manually!  
-Here’s the list of supported platforms:
+SensAI can **perform direct searches inside popular websites** without needing to open the browser manually first!  
+Supported platforms:
 
-| No. | Platform         | Search URL Format |
-|:---:|:------------------|:------------------|
+| No. | Platform         |
+|:---:|:------------------:|
 | 1 | Spotify | 
 | 2 | ChatGPT | 
 | 3 | YouTube | 
@@ -99,56 +134,61 @@ Here’s the list of supported platforms:
 | 10 | LinkedIn |
 | 11 | Ajio |
 
+✅ **Note:**  
+- Type your query and SensAI will **open the relevant search results** in your default browser.  
+- For WhatsApp, provide a **phone number** for direct messaging.
+
 ---
 
-✅ **Note:**  
-- Simply type your query and SensAI will **automatically open the browser** to the right search results page!
-- For WhatsApp, you need to provide the **phone number** in the command.
+# 📂 SensAI Navigation Feature
 
-# 🗂️ SensAI Navigation Feature
-
-SensAI can **navigate to files and folders** effortlessly and open them directly in specific applications.  
-Supported navigation options:
+SensAI can **navigate to files and folders** and open them instantly in the application of your choice.
 
 | No. | Application | Description |
 |:---:|:------------|:------------|
-| 1 | Visual Studio Code (VS Code) | Open a specific file or folder directly inside VS Code for editing or viewing. |
-| 2 | Windows File Explorer | Open a specific folder or directory inside the Windows File Explorer for browsing. |
+| 1 | Visual Studio Code (VS Code) | Open a file or folder inside VS Code for editing or development. |
+| 2 | Windows File Explorer | Open a folder inside the Windows File Explorer for browsing. |
+
+✅ **Note:**  
+- Just provide the **full path** of the file or folder when prompted!
+- No need to manually search through directories anymore.
 
 ---
 
-✅ **Note:**  
-- Just provide the **file or folder path** when prompted, and SensAI will automatically open it in your chosen application.
-- Helps developers and users quickly jump into their projects or folders without manual searching!
-
-
-## 🧠 Logic Behind SensAI
-
-SensAI leverages powerful APIs:
-- **Groq API** for blazing-fast, context-aware AI chat and reasoning
-- **ElevenLabs API** for ultra-realistic AI voice output (TTS)
-
-## ✨ Features
-
-| No. | Feature                          | Description |
-|:---:|:----------------------------------|:------------|
-| 1 | 🎯 **Launch Applications**          | Open apps like VS Code, Chrome, Explorer with simple commands |
-| 2 | 🌐 **Web Search**                   | Perform quick Google searches directly from CLI |
-| 3 | 📁 **File & Folder Navigation**     | Browse through directories with AI guidance |
-| 4 | 🔍 **In-App File Searching**        | Find documents, images, or folders without manual effort |
-| 5 | 💬 **Voice & Text Interaction**     | Type or speak to SensAI for hands-free operation |
-| 6 | 🧠 **Basic Memory**                  | Remembers small conversation history context |
-| 7 | 🎲 **Random Content Suggestions**   | Get random motivational quotes, ideas, and web suggestions |
-| 8 | 🚀 **Web Alternative Launch**        | Open specific websites instantly without searching manually |
-
-<br>
-
-## ⚙️ Installation Process
+# ⚙️ Installation Process
 
 1. **Download the SensAI executable**  
    👉 [Download SensAI.exe](#) (insert your file link here)
 
-2. **Extract (if zipped) and place `sensai.exe` in a preferred folder**  
+2. **Extract** (if zipped) and place `sensai.exe` in your preferred folder.
 
-3. **Create a `.env` file in the same folder with your API keys:**  
-   Example `.env`:
+3. **Create a `.env` file** in the same folder with your API keys. Example `.env`:
+   ```
+   GROQ_API_KEY=your_groq_api_key_here
+   ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+   ```
+
+✅ Done! You are ready to experience SensAI.
+
+---
+
+# 🧑‍💻 User Guide
+
+- **Start SensAI:**  
+  Run `sensai.exe` in your command line.
+
+- **Text Commands:**  
+  Type your query or request (e.g., "open VS Code", "search AI on Google").
+
+- **Voice Commands:**  
+  Press the `Insert` key anytime to **activate microphone input** and speak your query.
+
+- **Exit SensAI:**  
+  Press the `Escape` key anytime to **exit gracefully**.
+
+---
+
+# 📣 Final Notes
+
+- SensAI focuses on **speed**, **minimalism**, and **real-world functionality**.
+- Built with a focus on **accessibility**, **developer productivity**, and **personal assistant experience**.
