@@ -35,18 +35,6 @@ SensAI leverages powerful APIs to deliver high performance:
 
 ---
 
-# 🗂️ Folder Structure
-
-```
-/sensai_project/
-│
-├── sensai.exe          # The main executable
-├── .env                # API keys (Groq, ElevenLabs)
-├── /temp/              # Temporary data files (memory logs, speech outputs)
-```
-
----
-
 # 🖥️ Applications SensAI Can Launch
 
 ## ✅ Pre-Installed System Applications (Windows)
