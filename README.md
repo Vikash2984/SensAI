@@ -1,14 +1,6 @@
 # 🚀 SensAI - The AI-Powered CLI Assistant
 
-**SensAI** is a cutting-edge **Command Line AI ChatBot** that can:
-- Launch applications
-- Perform web searches
-- Navigate and search files/folders in-app
-- Converse intelligently via **Text** and **Voice**
-- Suggest random content and ideas
-- Remember previous actions (basic memory)
-- Act as a web alternative launcher
-- All packed into a lightweight, fast CLI tool!
+SensAI is an advanced Command Line AI ChatBot designed to simplify everyday tasks. It allows users to launch applications, perform web searches, and navigate or search files and folders directly from the CLI. SensAI supports both text and voice interactions, offering a hands-free experience. It can suggest random content and ideas, remember past actions, and act as a quick web alternative launcher, all packed into a lightweight and fast tool for efficient usage.
 
 ---
 
