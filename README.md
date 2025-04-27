@@ -17,8 +17,6 @@
 SensAI leverages powerful APIs:
 - **Groq API** for blazing-fast, context-aware AI chat and reasoning
 - **ElevenLabs API** for ultra-realistic AI voice output (TTS)
-- **Pyaudio + Whisper** for real-time voice recording and transcription
-- **Keyboard + Pygame** for seamless event handling without mouse
 
 **Folder Structure (Development):**
 
