@@ -80,6 +80,31 @@
 - System apps work out-of-the-box.  
 - External apps must be **pre-installed** for SensAI to launch them.
 
+# 🔎 SensAI In-App Search Feature
+
+SensAI can perform **direct searches inside popular websites and applications** without needing to open a browser manually!  
+Here’s the list of supported platforms:
+
+| No. | Platform         | Search URL Format |
+|:---:|:------------------|:------------------|
+| 1 | Spotify | 
+| 2 | ChatGPT | 
+| 3 | YouTube | 
+| 4 | Amazon | 
+| 5 | Flipkart |
+| 6 | GitHub |
+| 7 | WhatsApp |
+| 8 | Google |
+| 9 | Microsoft Bing |
+| 10 | LinkedIn |
+| 11 | Ajio |
+
+---
+
+✅ **Note:**  
+- Simply type your query and SensAI will **automatically open the browser** to the right search results page!
+- For WhatsApp, you need to provide the **phone number** in the command.
+
 
 ## 🧠 Logic Behind SensAI
 
