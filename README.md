@@ -178,8 +178,6 @@ SensAI can **navigate to files and folders** and open them instantly in the appl
 
 ---
 
----
-
 # 📣 Final Notes
 
 - SensAI focuses on **speed**, **minimalism**, and **real-world functionality**.
