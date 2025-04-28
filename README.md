@@ -7,7 +7,6 @@ SensAI is an advanced Command Line AI ChatBot designed to simplify everyday task
 # 🛠️ Installation Guide
 
 1. **Download the SensAI executable**
-   <br>
    👉 [![Download SensAI.exe](https://img.shields.io/badge/Download-SensAI.exe-brightgreen)](insert-your-sensai-exe-link-here)
 
 3. **Locate the downloaded file** and move it into your desired folder.
