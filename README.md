@@ -32,6 +32,20 @@ SensAI is an advanced Command Line AI ChatBot designed to simplify everyday task
 ✅ Now you're ready to experience SensAI without any setup hurdles.
 
 ---
+# 🧑‍💻 User Guide
+
+- **Start SensAI:**  
+  Run `sensai.exe` in your command line.
+
+- **Text Commands:**  
+  Type your query or request (e.g., "open VS Code", "search AI on Google").
+
+- **Voice Commands:**  
+  Press the `Insert` key anytime to **activate microphone input** and speak your query.
+
+- **Exit SensAI:**  
+  Press the `Escape` key anytime to **exit gracefully**.
+---
 
 # ✨ Features
 
@@ -163,37 +177,6 @@ SensAI can **navigate to files and folders** and open them instantly in the appl
 - No need to manually search through directories anymore.
 
 ---
-
-# ⚙️ Installation Process
-
-1. **Download the SensAI executable**  
-   👉 [Download SensAI.exe](#) (insert your file link here)
-
-2. **Extract** (if zipped) and place `sensai.exe` in your preferred folder.
-
-3. **Create a `.env` file** in the same folder with your API keys. Example `.env`:
-   ```
-   GROQ_API_KEY=your_groq_api_key_here
-   ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
-   ```
-
-✅ Done! You are ready to experience SensAI.
-
----
-
-# 🧑‍💻 User Guide
-
-- **Start SensAI:**  
-  Run `sensai.exe` in your command line.
-
-- **Text Commands:**  
-  Type your query or request (e.g., "open VS Code", "search AI on Google").
-
-- **Voice Commands:**  
-  Press the `Insert` key anytime to **activate microphone input** and speak your query.
-
-- **Exit SensAI:**  
-  Press the `Escape` key anytime to **exit gracefully**.
 
 ---
 
